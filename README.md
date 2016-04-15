@@ -6,5 +6,5 @@
 (3) Java8<br/>
 (4) Spark release 1.5.2
 *   **Python API**<br/>
-(1)
+(1) Python Twitter library ($pip install twitter)
 *   Blue 
