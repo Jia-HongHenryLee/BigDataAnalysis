@@ -22,7 +22,7 @@
    "favorite_count": "like 數",
    "entities":
    {
-      "symbols": [hashtag的功能，$表示],
+      "symbols": ["hashtag的功能，$表示"],
       "user_mentions": ["有否tag到其他Twitter user"],
       "hashtags": ["被解析出來的hashtag"],
       "urls": ["包含Tweet的網址"],
@@ -55,8 +55,8 @@
        "listed_count": "post文者所擁有的list數量",
        "is_translation_enabled": "是否允許翻譯",
        "utc_offset": "與GMT標準時間的時差",
-       "statuses_count": "發出的Tweet數量"
-       "description": "post文者簡介"
+       "statuses_count": "發出的Tweet數量",
+       "description": "post文者簡介",
        "friends_count": "追蹤其他使用者的數量",
        "location": "座標位置",
        "profile_link_color": "連結顏色",
