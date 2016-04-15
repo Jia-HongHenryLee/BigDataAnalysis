@@ -26,7 +26,7 @@
       "user_mentions": ["有否tag到其他Twitter user"],
       "hashtags": ["被解析出來的hashtag"],
       "urls": ["包含Tweet的網址"],
-   }
+   },
    "retweeted": "是否有被其他Twitter使用者分享",
    "coordinates": "發文位置",
    "source": "提到的網址",
@@ -78,7 +78,7 @@
        "protected": "是否有選擇保護他們的Tweet",
        "default_profile": "是否使用預設的圖片",
        "is_translator": "是否有參與幫助翻譯Twitter的文",
-   }
+   },
    "geo": "座標位置",
    "in_reply_to_user_id_str": "如果這篇Tweet為回覆別人的Tweet，會顯示被回覆的Tweet的作者ID",
    "possibly_sensitive": "是否可能為不好的文",
